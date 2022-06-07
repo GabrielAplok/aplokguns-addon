@@ -24,7 +24,7 @@ have the ammo in your inventory.
 ## How do I get guns in survival?
 You can create them on the add-on's workbench with various materials.
 
-<img src="https://cdn.linkvertise.com/link_images/385721">
+![AK-47](https://cdn.linkvertise.com/link_images/385721)
 AK-47
 
 **Attention, I do not allow anyone to upload this add-on to other sites. I post this addon only on the mcpedl site.**
