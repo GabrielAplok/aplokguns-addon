@@ -1,2 +1,41 @@
-# aplokguns-addon
-Add simple guns to your Minecraft Bedrock.
+## Aplok's Guns Add-on v1.1 Alpha
+Hello everyone, it's me again Gabriel Aplok (amazing, right?), I made a very simple 3d guns add-on for minecraft bedrock, I hope you like it a lot, as I've been working on it with great affection.
+
+## What is Aplok's Guns?
+This is an addon created by a simple student who once wanted to learn how to create cool add-ons. The idea of ​​this add-on was to make something simple but elegant. With animations inspired by [Activision](https://www.activision.com/) games and that could be craftable in survival.
+
+## Why should you choose this add-on?
+- Smooth and elegant animations.
+- Good gun sounds.
+- Tactical sprint like Call Of Duty Modern Warfare 2019.
+- Good balance on guns.
+- Nice animations in first person.
+- Nice recoil in guns.
+- Each gun has its own animations, both in first and third person.
+- You can get all items in survival.
+- The add-on doesn't have unnecessary things, that makes it even lighter.
+- Low-poly guns with beautiful textures.
+
+Before starting the review, I must say that all weapons have running and aiming animations, and the running animation works on such a principle that after some time, the usual running animation changes to tactical running animation, like in call of duty: modern warfare.
+
+## How to reload?
+have the ammo in your inventory.
+
+## How do I get guns in survival?
+You can create them on the add-on's workbench with various materials.
+
+[AK-47](https://cdn.linkvertise.com/link_images/385721)
+AK-47
+
+**Attention, I do not allow anyone to upload this add-on to other sites. I post this addon only on the mcpedl site.**
+
+## Changelog:
+```
+- Release.
+```
+
+## Downloads:
+[Download Support Me <3](https://link-center.net/173623/aplok-guns-3d-add-on)
+
+## Supported Minecraft versions:
+1.19.10+
