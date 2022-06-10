@@ -16,22 +16,22 @@ This is an addon created by a simple student who once wanted to learn how to cre
 - The add-on doesn't have unnecessary things, that makes it even lighter.
 - Low-poly guns with beautiful textures.
 
+## Note
 Before starting the review, I must say that all weapons have running and aiming animations, and the running animation works on such a principle that after some time, the usual running animation changes to tactical running animation, like in call of duty: modern warfare.
 
-## How to reload?
-have the ammo in your inventory.
+## Showcases
+![M4A1](images/screenshot_m4a1.png)
+M4A1
 
-## How do I get guns in survival?
-You can create them on the add-on's workbench with various materials.
+![Tactical M4A1](images/screenshot_m4a1tac.png)
+M4A1
 
-![AK-47](https://cdn.linkvertise.com/link_images/385721)
-AK-47
-
+## Warning
 **Attention, I do not allow anyone to upload this add-on to other sites. I post this addon only on the mcpedl site.**
 
 ## Changelog:
 ```
-- Release.
+- First Release.
 ```
 
 ## Downloads:
