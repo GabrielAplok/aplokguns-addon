@@ -19,6 +19,8 @@ This is an addon created by a simple student who once wanted to learn how to cre
 ## Note
 Before starting the review, I must say that all weapons have running and aiming animations, and the running animation works on such a principle that after some time, the usual running animation changes to tactical running animation, like in call of duty: modern warfare.
 
+Don't expect anything innovative or too perfect, I'm just a teenager with nothing to do trying to make something cool for Minecraft.
+
 ## Showcases
 ![M4A1](images/screenshot_m4a1.png)
 M4A1
@@ -27,7 +29,7 @@ M4A1
 M4A1
 
 ## Warning
-**Attention, I do not allow anyone to upload this add-on to other sites. I post this addon only on the mcpedl site.**
+**<font color="red">Attention, I do not allow anyone to upload this add-on to other sites. I post this addon only on the mcpedl site.</font>**
 
 ## Changelog:
 ```
