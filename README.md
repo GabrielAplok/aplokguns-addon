@@ -28,6 +28,8 @@ M4A1
 ![Tactical M4A1](images/screenshot_m4a1tac.png)
 M4A1
 
+## Recipes
+- Coming soon...
 ## Warning
 **<font color="red">Attention, I do not allow anyone to upload this add-on to other sites. I post this addon only on the mcpedl site.</font>**
 
